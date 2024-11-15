@@ -1,0 +1,10 @@
+Version: v1.0.0
+Kind: container/microapp/cdn
+Endpoint:
+Proxies:
+  - BackendCode: service-1
+    BackendAddress: localhost
+    Secure: false
+Navigations:
+  - Endpoint: /path/to/screen
+    Title: Title Of Screen
