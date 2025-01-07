@@ -2,10 +2,10 @@ package main
 
 import (
 	"context"
-	"mfe-platform/database"
-	"mfe-platform/http"
-	"mfe-platform/storage"
-	"mfe-platform/tcp"
+	"goruf/platform/database"
+	"goruf/platform/http"
+	"goruf/platform/storage"
+	"goruf/platform/tcp"
 	"os"
 	"strconv"
 

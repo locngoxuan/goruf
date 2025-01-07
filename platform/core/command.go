@@ -1,6 +1,6 @@
 package core
 
-import "mfe-platform/tcp"
+import "goruf/platform/tcp"
 
 const (
 	CmdConnectReq uint32 = iota

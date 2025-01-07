@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"mfe-platform/core"
-	"mfe-platform/tcp"
+	"goruf/platform/core"
+	"goruf/platform/tcp"
 	"sort"
 )
 

@@ -1,4 +1,4 @@
-module mfe-platform
+module goruf/platform
 
 go 1.22.2
 
